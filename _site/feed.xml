@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebConfs - A blog about web conferences</title>
+    <description>A blog about my favorite web conferences.</description>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 13:19:40 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 13:19:40 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 13:19:40 +0000</pubDate>
+        <link>http://webconfs.me/treehouse-meetups</link>
+        <guid isPermaLink="true">http://webconfs.me/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;Energistically generate covalent web services vis-a-vis multimedia based action items. Energistically myocardinate multifunctional web services without process-centric vortals. Progressively maximize next-generation.&lt;/p&gt;
+
+&lt;p&gt;multifunctional web services without process-centric vortals. Progressively maximize next-generation.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://webconfs.me/sass-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/sass-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Synergistically supply fully researched metrics vis-a-vis customized leadership skills. Conveniently matrix dynamic deliverables without corporate leadership.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://webconfs.me/converge</link>
+        <guid isPermaLink="true">http://webconfs.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Camp Sass</title>
+        <description>&lt;p&gt;Completely productivate revolutionary models through stand-alone systems. Progressively exploit excellent manufactured products after virtual deliverables. Synergistically envisioneer cutting-edge expertise through interdependent niche markets. Test. Test.&lt;/p&gt;
+
+&lt;p&gt;Energistically generate covalent web services vis-a-vis multimedia based action items. Energistically myocardinate multifunctional web services without process-centric vortals. Progressively maximize next-generation.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 00:00:00 +0100</pubDate>
+        <link>http://webconfs.me/camp-sass</link>
+        <guid isPermaLink="true">http://webconfs.me/camp-sass</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
